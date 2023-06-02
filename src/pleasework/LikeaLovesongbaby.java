@@ -5,7 +5,7 @@ public class LikeaLovesongbaby {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int size= 5;
-		for(int i = 0; i <= size; i++) {
+		for(int i = 0; i < size; i++) {
         	for (int j = size - i; j > 1; j--) {
         		System.out.print(" *");
         	}
